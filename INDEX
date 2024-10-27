@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="Viewport" content="Width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Codecademy Login Page Clone</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1>Login to Codecademy</h1>
+            </div>
+            <form action="">
+                <label for="">Email or Username</label>
+                <input type="text" name="" id="">
+                <label for="">Password</label>
+                <input type="password" name="" id="">
+                <a href="#">I forgot my password</a>
+                <input type="submit" value="Log In">
+            </form>
+            <div class="footer">
+                <h3>Login with another account</h3>
+            <div class="images">
+                <img src="./Facebook.jpg" width=60px; alt="">
+                <img src="./Google.jpg" width=100px; alt="">
+                <img src="./Linkdin.jpg" width="60px; alt="">
+                <img src="./Github.jpg" width="70px" alt="">
+                <img src="./Twitter.jpg" width="50px" alt="">
+
+                
+
+
+            </div>
+
+
+            </div>
+
+        </div>
+    </body>
+
+</html>
+
